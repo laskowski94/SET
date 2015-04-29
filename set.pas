@@ -1,4 +1,4 @@
-program proba;
+program SET;
 
 const liczba_kart=81;							{Liczba kart w talii}
   maks_bez_set=21;							{Przy tej liczbie kart na stole musi lezec set}
